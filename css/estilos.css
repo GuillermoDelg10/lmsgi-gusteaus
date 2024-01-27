@@ -10,7 +10,7 @@ div.encabezado{
     font-family: 'Georgia', serif;
     font-size: 36px;
     text-align: center;
-    height: 75px;
+    height: 120px;
 }
 
 div.menu ul li a {
@@ -37,9 +37,17 @@ div.sidebar {
     font-size: 18px;
 }
 div.pie {
-    background-color: #a77e58;
-    color: #ffffff;
+    background-color: #5a3e36;
+    color: #ecdcc6;
     font-family: 'Helvetica', sans-serif;
     font-size: 16px;
     text-align: center;
+    
 }
+div.pie a {
+    margin: 0 200px;
+}
+div.pie p {
+    margin-top: 10px;
+}
+
